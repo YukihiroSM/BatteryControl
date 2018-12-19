@@ -1,7 +1,7 @@
 #include "mainwindow.h"
 #include <QApplication>
-#include <QPushButton>
-
+#include <Windows.h>
+#include <powerbase.h>
 
 int main(int argc, char *argv[])
 {
